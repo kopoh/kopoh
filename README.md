@@ -13,7 +13,9 @@
 
 ### My Core Programs:
 ![Unity3d](https://img.shields.io/badge/-Unity3d-090909?style=for-the-badge&logo=unity) ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-090909?style=for-the-badge&logo=UnrealEngine) 
+
 ![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=Blender) ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop) ![Illustrator](https://img.shields.io/badge/-Illustrator-090909?style=for-the-badge&logo=adobeIllustrator) 
+
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio)
 
 
