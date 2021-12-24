@@ -1,4 +1,4 @@
-<h1 align="center">Here is it Unity3d Dev whith make bad games =)</h1>
+<h1 align="center">Here is it Unity3d Dev which make bad games =)</h1>
 <h3 align="center">Lasciate ogni speranza, voi ch’entrate (Abandon all hope, ye who enter here)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kopoh" alt="kopoh" /></a> </p>
