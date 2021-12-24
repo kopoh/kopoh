@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Kotlin (Java) and C++**
 - ⚡ Fun fact **I'm Russian =D**
 
-### ▶My Main Languages: 
+### ▶My Languages: 
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=Csharp) ![.Net](https://img.shields.io/badge/-.Net-090909?style=for-the-badge&logo=dotNet) ![Xamarin](https://img.shields.io/badge/-Xamarin-090909?style=for-the-badge&logo=Xamarin)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin) ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
@@ -20,7 +20,7 @@
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio)
 
 
-### ▶My Core Platforms:
+### ▶My Platforms:
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android) ![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=Arduino)
 
 ### ▶My DB:
