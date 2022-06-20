@@ -3,7 +3,7 @@
 <h3 align="center">Lasciate ogni speranza, voi ch’entrate (Abandon all hope, ye who enter here)</h3>
 
 - 🔭 I’m currently working on **Some interesting Android Apps**
-- 🌱 I’m currently learning **Kotlin (Java) and C++**
+- 🌱 I’m currently learning **Kotlin (Java)**
 - ⚡ Fun fact **I'm Russian =D**
 
 ### ▶My Languages: 
