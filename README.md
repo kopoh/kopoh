@@ -33,4 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kopoh&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="kopoh" /></p>
 
+Also I have my own repo with KMP libraries, based on awesome-kmp
+
 
