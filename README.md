@@ -28,11 +28,13 @@
 ### My DB:
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase) ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB) ![MySQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL) ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 
+Also I have my own repo with KMP libraries, based on awesome-kmp
+[Kotlin Multiplatform Libraries](https://github.com/kopoh/Kotlin-Multiplatform-Libraries)
+
+
 ### Others
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kopoh&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="kopoh" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kopoh&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="kopoh" /></p>
-
-Also I have my own repo with KMP libraries, based on awesome-kmp
 
 
