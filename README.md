@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Shedule App for Teachers and Students, and navigation like Google maps routes but, in my University**
 - 🌱 I’m currently learning **Kotlin Multiplatform**
-- ⚡ Contact email  **pavlov.vladislav.hh@gmail.com**
+- ⚡ Contact email
 
 ### My Languages: 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin) ![Compose](https://img.shields.io/badge/-JetpackCompose-090909?style=for-the-badge&logo=JetpackCompose) ![KotlinMultiplatform](https://img.shields.io/badge/-Kotlin_Multiplatform-090909?style=for-the-badge&logo=Kotlin) ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk)
